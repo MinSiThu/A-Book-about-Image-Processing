@@ -16,5 +16,7 @@
     "url": "https://github.com/MinSiThu/MyNotes/issues"
   },
   "homepage": "https://github.com/MinSiThu/MyNotes#readme",
-  "dependencies": {}
+  "dependencies": {
+    "markdown-pdf": "^9.0.0"
+  }
 }
